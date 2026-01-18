@@ -4,12 +4,12 @@
   
   ### **Efficient & Lightweight Architectures.**
 
-  Pioneering Efficient & Lightweight Architectures through Experimentation.
+  _Pioneering Efficient & Lightweight Architectures through Experimentation._
 
 </div>
 
 
 <div align="center">
   
-  [Official Website](https://skystarry.xyz) | [Ongoing ProjecTs](https://skystarry.xyz/projects)
+  [Official Website](https://skystarry.xyz) | [Ongoing Projects](https://skystarry.xyz/projects)
 </div>
