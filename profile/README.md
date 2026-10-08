@@ -8,8 +8,3 @@
 
 </div>
 
-
-<div align="center">
-  
-  [Official Website](https://skystarry.xyz) | [Ongoing Projects](https://skystarry.xyz/projects)
-</div>
